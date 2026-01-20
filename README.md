@@ -89,7 +89,7 @@ cd ai-restaurant-idea
 
 ### Step 2: Create Virtual Enviroment
 ```bash
-python -m venv venv
+python3.11 -m venv venv
 ```
 ```bash
 source venv/bin/activate        #linux/mac
@@ -193,6 +193,6 @@ Thanks to Google for the Gemini API and the open-source community for LangChain 
 
 ---
 
-### ✎ Note
+## ✎ Note
 
 This project is for educational and creative purposes. API costs may apply when using Google's Gemini model.
