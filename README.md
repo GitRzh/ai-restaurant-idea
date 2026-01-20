@@ -191,6 +191,11 @@ Python Developer | AI & ML Enthusiast
 
 Thanks to Google for the Gemini API and the open-source community for LangChain and Streamlit.
 
+## ᯓ➤ Connect with Me
+
+**GitHub:** https://github.com/GitRzh  
+**E-mail:** GitRzh@users.noreply.github.com
+
 ---
 
 ## ✎ Note
