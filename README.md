@@ -1,4 +1,4 @@
-# 🍽️ AI Restaurant Idea Generator
+# :9 AI Restaurant Idea Generator
 
 A modern web application that uses AI to generate creative restaurant names and menu items based on selected cuisines. Built with Streamlit and Google's Gemini AI.
 
@@ -83,8 +83,8 @@ Restaurant-Generator/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd restaurant-generator
+git clone git@github.com:GitRzh/ai-restaurant-idea.git
+cd ai-restaurant-idea
 ```
 
 ### Step 2: Create Virtual Enviroment
@@ -193,6 +193,6 @@ Thanks to Google for the Gemini API and the open-source community for LangChain 
 
 ---
 
-### 📌 Note
+### ✎ Note
 
 This project is for educational and creative purposes. API costs may apply when using Google's Gemini model.
